@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Avanthika P S — Full-Stack Developer</title><desc id="desc">Dark charcoal banner with violet and blue orbital lines and a clean developer identity.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10111b"/><stop offset="1" stop-color="#080c14"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#60a5fa"/></linearGradient><radialGradient id="glow"><stop stop-color="#7761d9" stop-opacity=".22"/><stop offset="1" stop-color="#7761d9" stop-opacity="0"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a0a6c0" stroke-opacity=".045"/></pattern></defs>
+<rect x="1" y="1" width="1278" height="418" rx="22" fill="url(#bg)" stroke="#292d40"/>
+<rect x="1" y="1" width="1278" height="418" rx="22" fill="url(#grid)"/>
+<ellipse cx="1050" cy="190" rx="370" ry="310" fill="url(#glow)"/>
+<g fill="none" stroke="url(#accent)"><circle cx="1060" cy="200" r="150" opacity=".17"/><circle cx="1060" cy="200" r="110" opacity=".25"/><ellipse cx="1060" cy="200" rx="190" ry="65" transform="rotate(-35 1060 200)" opacity=".45"/><ellipse cx="1060" cy="200" rx="190" ry="65" transform="rotate(35 1060 200)" opacity=".19"/></g>
+<circle cx="1188" cy="96" r="5" fill="#a78bfa"/><circle cx="920" cy="296" r="4" fill="#60a5fa"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif"><rect x="64" y="61" width="29" height="3" rx="1.5" fill="url(#accent)"/><text x="106" y="68" font-size="12" font-weight="600" letter-spacing="3" fill="#a4aec4">ENGINEERING · PRODUCT · CRAFT</text>
+<text x="60" y="158" font-size="62" font-weight="700" letter-spacing="-2.2" fill="#f1f5f9">Avanthika P S<tspan fill="#a78bfa">.</tspan></text>
+<text x="64" y="206" font-size="26" font-weight="500" fill="url(#accent)">Full-Stack Developer</text>
+<text x="64" y="258" font-size="18" fill="#a4aec4">Thoughtful interfaces. Reliable APIs. Products that work.</text>
+<path d="M64 299H720" stroke="#292d40"/>
+<text x="64" y="341" font-size="13" letter-spacing="1.6" fill="#c4ccdc">TYPESCRIPT <tspan fill="#596178"> / </tspan> NEXT.JS <tspan fill="#596178"> / </tspan> NODE.JS <tspan fill="#596178"> / </tspan> DATABASES</text>
+<text x="64" y="381" font-size="12" fill="#738099">KOCHI, INDIA</text><text x="1216" y="381" text-anchor="end" font-size="12" fill="#738099">@avanthikayemden</text></g></svg>
