@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Avanthika P S — Full-Stack Developer. Thoughtful interfaces. Reliable APIs. Products that work." />
+  <img src="./hero.svg" width="100%" alt="Avanthika P S — Full-Stack Developer. Thoughtful interfaces. Reliable APIs. Products that work." />
 </p>
 
 <p align="center">
